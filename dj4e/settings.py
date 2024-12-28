@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "dj4e1-production.up.railway.app"
 ]
 
+CSRF_TRUSTED_ORIGINS = ['https://your-railway-domain.up.railway.app']
 
 # Application definition
 
